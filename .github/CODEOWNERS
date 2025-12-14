@@ -1,0 +1,14 @@
+# Global ownership (fallback)
+blumguy111@gmail.com 
+
+# Documentation
+/docs/ @your-org/docs-writers
+*.md   @your-org/docs-writers
+
+# Frontend code
+/src/components/ @your-org/frontend-team
+/src/styles/ @your-org/design-team
+
+###
+###... Any other paths or file types
+###
